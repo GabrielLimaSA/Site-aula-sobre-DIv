@@ -1,0 +1,13 @@
+a {color: #771552; padding-left: 25px;}
+#container {width: 1000px; margin: 0 auto; color:rgb(102, 55, 55); font-size: 25px;}
+#header {width: 1000px; height:100px; margin:0 auto; background: rgb(255, 134, 134);}
+#sidebar {width: 240px;height: 410px; margin:0; float:left; background: rgb(155, 255, 155);}
+#content {width:760px; height: 410px; margin: 0; float:left; background:rgb(132, 204, 180);}
+#footer {width: 1000px; height: 70px; float: left; background: rgb(70, 1, 55); color: blueviolet;}
+a:link {color:green; background-color: transparent; text-decoration: none;}
+a:visited {color:rgb(233, 197, 203); background-color: transparent; text-decoration: none;}
+a:hover {color:rgb(0, 255, 85); background-color: transparent; text-decoration: underline}
+a:active {color:yellow; background-color: transparent; text-align: underline;}
+p {padding-left: 25px;}
+p.footer {text-align: center;}
+p.conteudo {text-align: center;}
